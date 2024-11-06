@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<assessments>
+  <assessment>
+    <courseid>WD3304</courseid>
+    <coursename>Internet Programming</coursename>
+    <lecturerid>ICT-LECT-011</lecturerid>
+    <assessmentsgroupname>Information Technology</assessmentsgroupname>
+    <assessmenttitle>Internet Programming Assignment 1</assessmenttitle>
+    <assessmenttype>Assignment</assessmenttype>
+    <assessmentdate>2019-03-30</assessmentdate>
+    <assessmentescription>&lt;p&gt;Internet Programming Assignment 1&lt;/p&gt;&#xD;
+</assessmentescription>
+    <assessmentweightage>35</assessmentweightage>
+  <assessmentdescription/></assessment>
+  <assessment>
+    <courseid>WD3304</courseid>
+    <coursename>Internet Programming</coursename>
+    <lecturerid>ICT-LECT-011</lecturerid>
+    <assessmentsgroupname>Information Technology</assessmentsgroupname>
+    <assessmenttitle>Internet Programming Assignment 2</assessmenttitle>
+    <assessmenttype>Assignment</assessmenttype>
+    <assessmentdate>2019-03-30</assessmentdate>
+    <assessmentescription/>
+    <assessmentweightage>35</assessmentweightage>
+  </assessment>
+</assessments>

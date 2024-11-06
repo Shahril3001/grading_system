@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<lecturers>
+  <lecturer>
+    <lecturername>Shahril</lecturername>
+    <lecturerid>ICT-LECT-011</lecturerid>
+    <lecturerdepartment>ICT</lecturerdepartment>
+    <lecturerimg>data/img/lecturers/tumblr_pkeml9ft7w1v6bs4yo1_r1_250.gif</lecturerimg>
+    <lectureremail>Shahril3001.SR@gmail.com</lectureremail>
+    <lecturerpassword>1234</lecturerpassword>
+    <role>Lecturer</role>
+  </lecturer>
+</lecturers>

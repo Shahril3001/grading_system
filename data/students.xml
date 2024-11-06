@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<students>
+  <student>
+    <studentname>Shahril</studentname>
+    <studentid>SICT/3001</studentid>
+    <studentgroup>Information Technology</studentgroup>
+    <studentemail>Shahril3001.SR@gmail.com</studentemail>
+    <studentpassword>1234</studentpassword>
+    <studentimg>data/img/students/1205478_3683_8.jpg</studentimg>
+    <role>Student</role>
+  </student>
+</students>

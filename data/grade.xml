@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<grades>
+  <grade>
+    <studentid>SICT/3001</studentid>
+    <courseid>WD3304</courseid>
+    <lecturerid>ICT-LECT-011</lecturerid>
+    <assessmenttitle>Internet Programming Assignment 1</assessmenttitle>
+    <grade_mark>82</grade_mark>
+    <grade_status>Distinction</grade_status>
+    <grade_comment>&lt;p&gt;Keep Improved!&lt;/p&gt;&#xD;
+</grade_comment>
+    <grade_date>25-03-2019</grade_date>
+  </grade>
+  <grade>
+    <studentid>SICT/3001</studentid>
+    <courseid>WD3304</courseid>
+    <lecturerid>ICT-LECT-011</lecturerid>
+    <assessmenttitle>Internet Programming Assignment 2</assessmenttitle>
+    <grade_mark>82</grade_mark>
+    <grade_status>Distinction</grade_status>
+    <grade_comment/>
+    <grade_date>25-03-2019</grade_date>
+  </grade>
+</grades>

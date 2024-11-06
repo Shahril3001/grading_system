@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<courses>
+  <course>
+    <coursename>Internet Programming</coursename>
+    <groupname>Information Technology</groupname>
+    <courseid>WD3304</courseid>
+    <courseimg>data/img/courses/Web-1.jpg</courseimg>
+    <coursedesc>&lt;p&gt;Internet Programming&lt;/p&gt;&#xD;
+</coursedesc>
+    <lecturerid>ICT-LECT-011</lecturerid>
+  <coursegroup>--- Select Group---</coursegroup></course>
+</courses>
