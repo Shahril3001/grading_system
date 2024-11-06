@@ -1,4 +1,4 @@
-# Grading System
+# Grading System (HTML, CSS, JS & PHP)
 This project focuses on developing a Grading System that utilizes PHP for backend processing and XML for data storage. The system is designed to help educational institutions efficiently manage, store, and retrieve student grades and performance data. By using XML as a lightweight database format, this system offers a flexible and straightforward solution for handling data, while PHP provides the necessary server-side scripting for dynamic interactions and processing.
 
 ## Project Features
